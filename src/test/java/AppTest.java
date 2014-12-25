@@ -5,7 +5,7 @@ public class AppTest {
 
     @Test
     public void doTest() throws Exception{
-        Assert.assertTrue(1 == 1);
+        Assert.assertTrue(1 == 2);
     }
 
 }
